@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/drive/u/0/my-drive?q=after:2024-03-15%20parent:0AJq_OAdO9ANCUk9PVA)](https://drive.google.com/drive/u/0/my-drive?q=after:2024-03-15%20parent:0AJq_OAdO9ANCUk9PVA)
+[![MasterHead](https://drive.google.com/file/d/1z9tAY72X9OnFIa9LG7y3_GxSEeH8Q0Qr/view?usp=sharing)]()
 <h1 align="center">Hi 👋, I'm Krish Veera</h1>
 <h3 align="center">always looking for new things to build!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
