@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1z9tAY72X9OnFIa9LG7y3_GxSEeH8Q0Qr/view?usp=sharing)]()
+[![MasterHead](![image](https://github.com/krishrveera/krishrveera/assets/98126739/170ceac9-d3be-4aa4-96b9-c5eaa49dfef0))](Coding)
 <h1 align="center">Hi 👋, I'm Krish Veera</h1>
 <h3 align="center">always looking for new things to build!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
