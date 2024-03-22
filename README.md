@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [In-College Website (Software Engineering Project)](https://github.com/krishrveera/inCollegeTeamAqua)
 
-- 🌱 I’m currently learning **Flutter, Recommenders Systems**
+- 🌱 I’m currently learning **Recommenders Systems**
 
 - 👯 I’m looking to collaborate on [Playlist Transferer](https://github.com/krishrveera/playlistTransferer)
 
