@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **krishv@usf.edu**
 
-- ⚡ Fun fact **I know 6 languages**
+- ⚡ Fun fact **I know 5 languages in addition to the programming languages I code in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
