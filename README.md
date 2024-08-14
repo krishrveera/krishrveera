@@ -2,11 +2,9 @@
 <h3 align="center">always looking for new things to build!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on [In-College Website (Software Engineering Project)](https://github.com/krishrveera/inCollegeTeamAqua)
+- 🔭 I’m currently working on [AI Powered Semester Builder](https://github.com/krishrveera/semester-builder)
 
 - 🌱 I’m currently learning **Recommenders Systems**
-
-- 👯 I’m looking to collaborate on [Playlist Transferer](https://github.com/krishrveera/playlistTransferer)
 
 - 💬 Ask me about **Web Development and Networking**
 
