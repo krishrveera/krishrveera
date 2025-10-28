@@ -8,14 +8,13 @@
 
 - 💬 Ask me about **Web Development and Networking**
 
-- 📫 How to reach me **krishv@usf.edu**
+- 📫 How to reach me **krish.v@columbia.edu**
 
 - ⚡ Fun fact **I know 5 languages in addition to the programming languages I code in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/krish-veera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krish-veera" height="30" width="40" /></a>
-<a href="https://instagram.com/krishveera14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishveera14" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/krish veera innovations and more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krish veera innovations and more" height="30" width="40" /></a>
 </p>
 
