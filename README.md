@@ -2,10 +2,9 @@
 
 # Hey there, I'm Krish Veera 👋
 
-**MS Computer Science @ Columbia University** · ML Researcher · Builder of things that shouldn't work but do 🚀
+**MS Computer Science @ Columbia University** · ML Researcher · Builder 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-veera)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.v@columbia.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishrveera)
 
 </div>
@@ -15,9 +14,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **MS in CS (ML Track)** at **Columbia University** (Expected Dec 2026), **BS CS (Cum Laude)** from **USF**
-- 🔬 Current: RL research at **Columbia's CEALab** — building assistive interfaces for gaming accessibility 🎮
-- 📝 Published at **EMNLP 2025** — *MuseScorer (Idea Originality Scoring)* 🏆
-- 🏥 Researched at **Bridge2AI Voice** — AI models for remote voice-based health monitoring 🗣️
+- 🔬 Current: RL research at **[Columbia's CEALab](https://ceal.cs.columbia.edu/)** — building assistive interfaces for gaming accessibility 🎮
+- 📝 Published at **EMNLP 2025** — *[MuseScorer](https://cssai.org/) (Idea Originality Scoring)* 🏆
+- 🏥 Researched at **[Bridge2AI Voice](https://b2ai-voice.org/)** — AI models for remote voice-based health monitoring 🗣️
 - 🧠 Passionate about **ML systems, NLP**, and building tools that make a difference!
 - ⚡ Fun fact: I speak **5 languages** in addition to the programming ones I code in 🌍
 
@@ -62,8 +61,11 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 ### 🔨 Under Renovation
 
-**🏗️ AssetOpsBench** (for High Performance Machine Learning class)
+**🏗️ [AssetOpsBench](https://github.com/IBM/AssetOpsBench)** (for High Performance Machine Learning class)
 *Currently building a cool project associated with IBM's AssetOpsBench. Stay tuned!* 👀
+
+**📱 Portfolio V2**
+*A new interactive portfolio featuring a 3D model integration and digital twin component.* 🌐
 
 ---
 
@@ -100,7 +102,6 @@ A deterministic medical billing verification engine. Programmatically audits hos
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Cloud & Databases**
 
@@ -116,7 +117,6 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=krishrveera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrveera&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
@@ -139,7 +139,5 @@ A deterministic medical billing verification engine. Programmatically audits hos
 <div align="center">
 
 *"The best way to predict the future is to invent it."* 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=krishrveera&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
