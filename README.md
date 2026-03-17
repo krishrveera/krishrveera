@@ -2,10 +2,10 @@
 
 # Hey there, I'm Krish Veera 👋
 
-**MS Computer Science @ Columbia University** · ML Researcher · Builder 🚀
+**MS Computer Science @ Columbia University** · ML Researcher · Builder of Things 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-veera)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=eUFAqVEAAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eUFAqVEAAAAJ&hl=en&oi=ao)
 
 </div>
 
@@ -82,7 +82,7 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
 **Languages**
 
@@ -114,7 +114,7 @@ A deterministic medical billing verification engine. Programmatically audits hos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrveera&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
