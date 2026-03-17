@@ -1,22 +1,145 @@
-<h1 align="center">Hi 👋, I'm Krish Veera</h1>
-<h3 align="center">always looking for new things to build!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<div align="center">
 
-- 🔭 I’m currently working on [AI Powered Semester Builder](https://github.com/krishrveera/semester-builder)
+# Hey there, I'm Krish Veera 👋
 
-- 🌱 I’m currently learning **Recommenders Systems**
+**MS Computer Science @ Columbia University** · ML Researcher · Builder of things that shouldn't work but do 🚀
 
-- 💬 Ask me about **Web Development and Networking**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-veera)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.v@columbia.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishrveera)
 
-- 📫 How to reach me **krish.v@columbia.edu**
+</div>
 
-- ⚡ Fun fact **I know 5 languages in addition to the programming languages I code in**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/krish-veera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krish-veera" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/krish veera innovations and more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krish veera innovations and more" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 🎓 **MS in CS (ML Track)** at **Columbia University** (Expected Dec 2026), **BS CS (Cum Laude)** from **USF**
+- 🔬 Current: RL research at **Columbia's CEALab** — building assistive interfaces for gaming accessibility 🎮
+- 📝 Published at **EMNLP 2025** — *MuseScorer (Idea Originality Scoring)* 🏆
+- 🏥 Researched at **Bridge2AI Voice** — AI models for remote voice-based health monitoring 🗣️
+- 🧠 Passionate about **ML systems, NLP**, and building tools that make a difference!
+- ⚡ Fun fact: I speak **5 languages** in addition to the programming ones I code in 🌍
+
+---
+
+### 🏆 Featured Hackathon Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎙️ [AriaPitch](https://github.com/krishrveera/AriaPitch)** 
+*Cornell Health AI Hackathon*
+
+A web-based voice health screening tool. Records voice samples, extracts acoustic biomarkers, and uses a trained ML ensemble to screen for benign vocal fold lesions.
+
+- 🧠 ML ensemble (SVM + RF + XGBoost) trained on B2AI voice data
+- 📊 129 acoustic features extracted via OpenSMILE + Praat
+- 🚦 Flag system with actionable recommendations
+
+`React` `Flask` `scikit-learn` `XGBoost` `OpenSMILE`
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 [MedClear](https://github.com/krishrveera/MedClear)**
+*Columbia Health Hacks*
+
+A deterministic medical billing verification engine. Programmatically audits hospital bills by cross-referencing line-item charges against Medicare Fee Schedules.
+
+- 🔍 7 independent, composable verification engines
+- 📡 Live CMS Medicare Physician Fee Schedule API queries
+- 💵 Produces structured, dollar-quantified discrepancy reports
+
+`FastAPI` `Python` `CMS API` `Data Parsing`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔨 Under Renovation
+
+**🏗️ AssetOpsBench** (for High Performance Machine Learning class)
+*Currently building a cool project associated with IBM's AssetOpsBench. Stay tuned!* 👀
+
+---
+
+### 🔬 Research & Publications
+
+| 📄 Paper | 📍 Details |
+|---|---|
+| **[MuseScorer: Idea Originality Scoring At Scale](https://arxiv.org/abs/2505.16232)** | Published in **EMNLP 2025** |
+| **[AI Can Elevate Creativity in Social Networks](https://arxiv.org/abs/2410.15264)** | Preprint (2024) |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Cloud & Databases**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=krishrveera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrveera&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+### 🏅 Highlights
+
+| 🏆 Achievement | 📍 Details |
+|---|---|
+| **EMNLP 2025 Publication** | MuseScorer — Idea Originality Scoring |
+| **Cornell Health AI Hackathon** | AriaPitch — Voice Health Screening |
+| **Columbia Health Hacks** | MedClear — Medical Billing Verification |
+| **Google Data Analytics Certificate** | Professional Certification |
+| **Dean's Circle of Merit (Service)** | USF Judy Genshaft Honors College |
+| **GDSC Executive President** | 426% membership growth, 50+ events |
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."* 🚀
+
+![Visitor Count](https://komarev.com/ghpvc/?username=krishrveera&color=6366f1&style=flat-square&label=Profile+Views)
+
+</div>
