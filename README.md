@@ -15,7 +15,7 @@
 
 - 🎓 **MS in CS (ML Track)** at **Columbia University** (Expected Dec 2026), **BS CS (Cum Laude)** from **USF**
 - 🔬 Current: RL research at **[Columbia's CEALab](https://ceal.cs.columbia.edu/)** — building assistive interfaces for gaming accessibility 🎮
-- 📝 Published at **EMNLP 2025** — *[MuseScorer](https://cssai.org/) (Idea Originality Scoring)* 🏆
+- 📝 Published at **EMNLP 2025** — *Idea Originality Scoring ([Built at CSSAI Lab](https://cssai.org/))* 🏆
 - 🏥 Researched at **[Bridge2AI Voice](https://b2ai-voice.org/)** — AI models for remote voice-based health monitoring 🗣️
 - 🧠 Passionate about **ML systems, NLP**, and building tools that make a difference!
 - ⚡ Fun fact: I speak **5 languages** in addition to the programming ones I code in 🌍
@@ -78,7 +78,11 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Activity
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 **Languages**
 
@@ -106,20 +110,20 @@ A deterministic medical billing verification engine. Programmatically audits hos
 **Cloud & Databases**
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+</td>
+<td width="30%" valign="top" align="center">
 
-### 📊 GitHub Stats
-
-<div align="center">
-
+**Most Used Languages**<br/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrveera&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-</div>
+</td>
+</tr>
+</table>
+
+
 
 ---
 
