@@ -24,7 +24,7 @@
 
 ### 🏆 Featured Hackathon Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -71,16 +71,20 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 ### 🔬 Research & Publications
 
+<div align="center">
+
 | 📄 Paper | 📍 Details |
 |---|---|
 | **[MuseScorer: Idea Originality Scoring At Scale](https://arxiv.org/abs/2505.16232)** | Published in **EMNLP 2025** |
 | **[AI Can Elevate Creativity in Social Networks](https://arxiv.org/abs/2410.15264)** | Preprint (2024) |
 
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Activity
 
-<table>
+<table align="center">
 <tr>
 <td width="55%" valign="middle">
 
@@ -128,6 +132,8 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 ### 🏅 Highlights
 
+<div align="center">
+
 | 🏆 Achievement | 📍 Details |
 |---|---|
 | **EMNLP 2025 Publication** | MuseScorer — Idea Originality Scoring |
@@ -136,6 +142,8 @@ A deterministic medical billing verification engine. Programmatically audits hos
 | **Google Data Analytics Certificate** | Professional Certification |
 | **Dean's Circle of Merit (Service)** | USF Judy Genshaft Honors College |
 | **GDSC Executive President** | 426% membership growth, 50+ events |
+
+</div>
 
 ---
 
