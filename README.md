@@ -15,7 +15,7 @@
 
 - 🎓 **MS in CS (ML Track)** at **Columbia University** (Expected Dec 2026), **BS CS (Cum Laude)** from **USF**
 - 🔬 Current: RL research at **[Columbia's CEALab](https://ceal.cs.columbia.edu/)** — building assistive interfaces for gaming accessibility 🎮
-- 📝 Published at **EMNLP 2025** — *Idea Originality Scoring ([Built at CSSAI Lab](https://cssai.org/))* 🏆
+- 📝 Published at **EMNLP 2025** — *Idea Originality Scoring (Built at [CSSAI Lab](https://cssai.org/))* 🏆
 - 🏥 Researched at **[Bridge2AI Voice](https://b2ai-voice.org/)** — AI models for remote voice-based health monitoring 🗣️
 - 🧠 Passionate about **ML systems, NLP**, and building tools that make a difference!
 - ⚡ Fun fact: I speak **5 languages** in addition to the programming ones I code in 🌍
