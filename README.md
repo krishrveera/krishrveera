@@ -110,11 +110,11 @@ A temporal query classifier + parallel execution layer that optimizes latency in
 
 <div align="center">
 
-| 📄 Paper | 📍 Details |
-|---|---|
-| **[MuseScorer: Idea Originality Scoring At Scale](https://arxiv.org/abs/2505.16232)** | Published in **EMNLP 2025** |
-| **[AI Can Elevate Creativity in Social Networks](https://arxiv.org/abs/2410.15264)** | Accepted at **npj AI** (Nature portfolio) |
-| **[Temporal Semantic Caching for Agentic Pipelines](https://arxiv.org/abs/2605.20630)** | Preprint (2026) · extends IBM AssetOpsBench |
+📄 **[MuseScorer: Idea Originality Scoring At Scale](https://arxiv.org/abs/2505.16232)** · Published in **EMNLP 2025**
+
+📄 **[AI Can Elevate Creativity in Social Networks](https://arxiv.org/abs/2410.15264)** · Accepted at **npj AI** (Nature portfolio)
+
+📄 **[Temporal Semantic Caching for Agentic Pipelines](https://arxiv.org/abs/2605.20630)** · Preprint (2026), extends IBM AssetOpsBench
 
 </div>
 
@@ -179,14 +179,17 @@ A temporal query classifier + parallel execution layer that optimizes latency in
 
 <div align="center">
 
-| 🏆 Achievement | 📍 Details |
-|---|---|
-| **EMNLP 2025 Publication** | MuseScorer, Idea Originality Scoring |
-| **Columbia Health Hacks (Track Prize)** | MedClear, Underserved Demographics Track |
-| **Patent-Pending Pipeline @ Honeywell** | Knowledge-graph data contextualization |
-| **Google Data Analytics Certificate** | Professional Certification |
-| **Dean's Circle of Merit (Service)** | USF Judy Genshaft Honors College |
-| **GDSC Executive President** | 426% membership growth, 50+ events |
+🏆 **EMNLP 2025 Publication** · MuseScorer, Idea Originality Scoring
+
+🥇 **Columbia Health Hacks (Track Prize)** · MedClear, Underserved Demographics Track
+
+📜 **Patent-Pending Pipeline @ Honeywell** · Knowledge-graph data contextualization
+
+📊 **Google Data Analytics Certificate** · Professional Certification
+
+🎖️ **Dean's Circle of Merit (Service)** · USF Judy Genshaft Honors College
+
+🚀 **GDSC Executive President** · 426% membership growth, 50+ events
 
 </div>
 
