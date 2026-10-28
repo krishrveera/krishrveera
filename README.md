@@ -31,7 +31,7 @@
 - Built a data contextualization pipeline (**Databricks**, **Neo4j**) turning enterprise schemas into a persistent knowledge graph across **4 production use cases**, cutting response time from **2–8 hours to 20 seconds** at 79% accuracy, now **approved for patent filing**
 - Built an analytics dashboard (**Spark SQL**, **Streamlit**) with drilldown across a five-tier data hierarchy, deployed on a 3-customer PoC over **10TB+ of streaming telemetry**, adopted by the Honeywell Data Science team
 
-**🔬 Graduate Research Assistant · Computer Enabled Abilities Lab (CEAL)** · *New York, NY · Jan 2026–Present*
+**🔬 Graduate Research Assistant · [Computer Enabled Abilities Lab (CEAL)](https://ceal.cs.columbia.edu/)** · *New York, NY · Jan 2026–Present*
 - Product owner of **AutoRAD**, a Bayesian Optimization system (**BoTorch**) that replaces manual audio tuning in CEAL's Racing Auditory Display, personalizing cue parameters for blind & low-vision players in the **CARLA** simulator, in collaboration with **Aalto University**
 
 ---
@@ -69,6 +69,9 @@ A deterministic medical billing verification engine. Programmatically audits hos
 
 </td>
 </tr>
+</table>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
